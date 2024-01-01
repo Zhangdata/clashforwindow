@@ -1,2 +1,2 @@
 # clashforwindow
-请自行去release中下载
+请自行去releases中下载
